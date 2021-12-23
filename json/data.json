@@ -1,0 +1,183 @@
+{
+    "absensi":[
+        {
+            "image":"img/gallery/absensi/dashboard.png",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/list_reimbursement.png",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/detail_reimbursement.png",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/list_timesheet.png",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/detail_timesheet.png",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/1.jpg",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/2.jpg",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/3.jpg",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/4.jpg",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/5.jpg",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/6.jpg",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/7.jpg",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/8.jpg",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/9.jpg",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/10.jpg",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/11.jpg",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/12.jpg",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/13.jpg",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/14.jpg",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/15.jpg",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/16.jpg",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        },
+        {
+            "image":"img/gallery/absensi/17.jpg",
+            "title":"Absensi",
+            "text":"Aplikasi untuk absensi"
+        }
+    ],
+    "dokumen_manajemen" : [
+        {
+            "image":"img/gallery/dokumen_manajemen/dashboard.png",
+            "title":"Dokumen Manajemen",
+            "text":"Aplikasi untuk memanajemen dokumen"
+        },
+        {
+            "image":"img/gallery/dokumen_manajemen/detail_dokumen.png",
+            "title":"Dokumen Manajemen",
+            "text":"Aplikasi untuk memanajemen dokumen"
+        },
+        {
+            "image":"img/gallery/dokumen_manajemen/dokumen_view.png",
+            "title":"Dokumen Manajemen",
+            "text":"Aplikasi untuk memanajemen dokumen"
+        },
+        {
+            "image":"img/gallery/dokumen_manajemen/history_dokumen.png",
+            "title":"Dokumen Manajemen",
+            "text":"Aplikasi untuk memanajemen dokumen"
+        },
+        {
+            "image":"img/gallery/dokumen_manajemen/list_dokumen_all.png",
+            "title":"Dokumen Manajemen",
+            "text":"Aplikasi untuk memanajemen dokumen"
+        },
+        {
+            "image":"img/gallery/dokumen_manajemen/tracking_dokumen.png",
+            "title":"Dokumen Manajemen",
+            "text":"Aplikasi untuk memanajemen dokumen"
+        }
+    ],
+    "survey":[
+        {
+            "image":"img/gallery/survey/dashboard.png",
+            "title":"Survey Foto",
+            "text":"Aplikasi untuk Survey Foto lokasi"
+        },
+        {
+            "image":"img/gallery/survey/detail_survey.png",
+            "title":"Survey Foto",
+            "text":"Aplikasi untuk Survey Foto lokasi"
+        },
+        {
+            "image":"img/gallery/survey/list_survey.png",
+            "title":"Survey Foto",
+            "text":"Aplikasi untuk Survey Foto lokasi"
+        },
+        {
+            "image":"img/gallery/survey/1.jpeg",
+            "title":"Survey Foto",
+            "text":"Aplikasi untuk Survey Foto lokasi"
+        },
+        {
+            "image":"img/gallery/survey/2.jpeg",
+            "title":"Survey Foto",
+            "text":"Aplikasi untuk Survey Foto lokasi"
+        },
+        {
+            "image":"img/gallery/survey/3.jpeg",
+            "title":"Survey Foto",
+            "text":"Aplikasi untuk Survey Foto lokasi"
+        },
+        {
+            "image":"img/gallery/survey/4.jpeg",
+            "title":"Survey Foto",
+            "text":"Aplikasi untuk Survey Foto lokasi"
+        }
+    ]
+}
